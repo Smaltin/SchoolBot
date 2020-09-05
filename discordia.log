@@ -1,0 +1,445 @@
+2020-08-21 14:56:04 | [INFO]    | Discordia 2.8.3
+2020-08-21 14:56:04 | [INFO]    | Connecting to Discord...
+2020-08-21 14:56:05 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 14:56:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 14:56:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 14:56:05 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 14:56:05 | [INFO]    | Shard 0 : Received READY
+2020-08-21 14:58:18 | [INFO]    | Discordia 2.8.3
+2020-08-21 14:58:18 | [INFO]    | Connecting to Discord...
+2020-08-21 14:58:18 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 14:58:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 14:58:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 14:58:18 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 14:58:19 | [WARNING] | Shard 0 : 4000 - Unknown error.
+2020-08-21 14:58:19 | [INFO]    | Shard 0 : Disconnected
+2020-08-21 14:58:19 | [INFO]    | Shard 0 : Reconnecting after 1085 ms...
+2020-08-21 14:58:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 14:58:20 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 14:58:26 | [INFO]    | Shard 0 : Received READY
+2020-08-21 14:58:47 | [INFO]    | Discordia 2.8.3
+2020-08-21 14:58:47 | [INFO]    | Connecting to Discord...
+2020-08-21 14:58:47 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 14:58:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 14:58:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 14:58:48 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 14:58:48 | [INFO]    | Shard 0 : Received READY
+2020-08-21 15:00:37 | [INFO]    | Discordia 2.8.3
+2020-08-21 15:00:37 | [INFO]    | Connecting to Discord...
+2020-08-21 15:00:37 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 15:00:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 15:00:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 15:00:37 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 15:00:37 | [INFO]    | Shard 0 : Received READY
+2020-08-21 15:03:40 | [INFO]    | Discordia 2.8.3
+2020-08-21 15:03:40 | [INFO]    | Connecting to Discord...
+2020-08-21 15:03:41 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 15:03:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 15:03:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 15:03:41 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 15:03:41 | [INFO]    | Shard 0 : Received READY
+2020-08-21 15:07:12 | [INFO]    | Discordia 2.8.3
+2020-08-21 15:07:12 | [INFO]    | Connecting to Discord...
+2020-08-21 15:07:13 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 15:07:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 15:07:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 15:07:13 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 15:07:13 | [INFO]    | Shard 0 : Received READY
+2020-08-21 15:09:06 | [INFO]    | Discordia 2.8.3
+2020-08-21 15:09:06 | [INFO]    | Connecting to Discord...
+2020-08-21 15:09:06 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 15:09:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 15:09:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 15:09:07 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 15:09:07 | [INFO]    | Shard 0 : Received READY
+2020-08-21 15:09:27 | [INFO]    | Discordia 2.8.3
+2020-08-21 15:09:27 | [INFO]    | Connecting to Discord...
+2020-08-21 15:09:27 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 15:09:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 15:09:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 15:09:28 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 15:09:28 | [INFO]    | Shard 0 : Received READY
+2020-08-21 15:10:15 | [INFO]    | Discordia 2.8.3
+2020-08-21 15:10:15 | [INFO]    | Connecting to Discord...
+2020-08-21 15:10:15 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 15:10:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 15:10:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 15:10:15 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 15:10:15 | [INFO]    | Shard 0 : Received READY
+2020-08-21 16:38:12 | [INFO]    | Discordia 2.8.3
+2020-08-21 16:38:12 | [INFO]    | Connecting to Discord...
+2020-08-21 16:38:13 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 16:38:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 16:38:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 16:38:13 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 16:38:13 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:09:25 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:09:25 | [INFO]    | Connecting to Discord...
+2020-08-21 20:09:25 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:09:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:10:01 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:10:01 | [INFO]    | Connecting to Discord...
+2020-08-21 20:10:02 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:10:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:10:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:10:02 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:10:02 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:10:29 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:10:29 | [INFO]    | Connecting to Discord...
+2020-08-21 20:10:30 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:10:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:10:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:10:30 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:10:30 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:11:17 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:11:17 | [INFO]    | Connecting to Discord...
+2020-08-21 20:11:18 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:11:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:11:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:11:18 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:12:30 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:12:30 | [INFO]    | Connecting to Discord...
+2020-08-21 20:12:30 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:12:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:12:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:12:30 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:12:30 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:14:33 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:14:33 | [INFO]    | Connecting to Discord...
+2020-08-21 20:14:34 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:14:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:14:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:14:34 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:14:34 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:15:41 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:15:41 | [INFO]    | Connecting to Discord...
+2020-08-21 20:15:42 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:15:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:15:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:15:42 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:15:42 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:17:41 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:17:41 | [INFO]    | Connecting to Discord...
+2020-08-21 20:17:41 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:17:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:17:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:17:41 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:17:41 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:17:54 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:17:54 | [INFO]    | Connecting to Discord...
+2020-08-21 20:17:55 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:17:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:17:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:17:55 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:17:55 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:19:59 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:19:59 | [INFO]    | Connecting to Discord...
+2020-08-21 20:19:59 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:19:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:20:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:20:00 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:20:00 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:21:51 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:21:51 | [INFO]    | Connecting to Discord...
+2020-08-21 20:21:51 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:21:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:21:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:21:51 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:21:51 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:22:17 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:22:17 | [INFO]    | Connecting to Discord...
+2020-08-21 20:22:17 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:22:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:22:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:22:18 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:22:18 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:28:19 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:28:19 | [INFO]    | Connecting to Discord...
+2020-08-21 20:28:19 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:28:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:28:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:28:19 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:28:19 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:29:45 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:29:45 | [INFO]    | Connecting to Discord...
+2020-08-21 20:29:45 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:29:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:29:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:29:46 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:29:46 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:31:18 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:31:18 | [INFO]    | Connecting to Discord...
+2020-08-21 20:31:18 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:31:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:31:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:31:18 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:31:19 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:32:45 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:32:45 | [INFO]    | Connecting to Discord...
+2020-08-21 20:32:46 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:32:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:32:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:32:46 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:32:46 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:33:57 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:33:57 | [INFO]    | Connecting to Discord...
+2020-08-21 20:33:57 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:33:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:33:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:33:57 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:33:57 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:34:43 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:34:43 | [INFO]    | Connecting to Discord...
+2020-08-21 20:34:43 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:34:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:34:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:34:43 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:34:43 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:35:52 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:35:52 | [INFO]    | Connecting to Discord...
+2020-08-21 20:35:52 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:35:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:35:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:35:52 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:35:53 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:36:14 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:36:14 | [INFO]    | Connecting to Discord...
+2020-08-21 20:36:15 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:36:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:36:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:36:15 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:36:15 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:39:55 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:39:55 | [INFO]    | Connecting to Discord...
+2020-08-21 20:39:55 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:39:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:39:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:39:56 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:39:56 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:40:31 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:40:31 | [INFO]    | Connecting to Discord...
+2020-08-21 20:40:31 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:40:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:40:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:40:31 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:40:31 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:42:12 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:42:12 | [INFO]    | Connecting to Discord...
+2020-08-21 20:42:12 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:42:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:42:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:42:12 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:42:13 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:42:45 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:42:45 | [INFO]    | Connecting to Discord...
+2020-08-21 20:42:45 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:42:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:42:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:42:45 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:42:45 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:42:58 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:42:58 | [INFO]    | Connecting to Discord...
+2020-08-21 20:42:59 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:42:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:42:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:42:59 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:42:59 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:43:10 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:43:10 | [INFO]    | Connecting to Discord...
+2020-08-21 20:43:11 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:43:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:43:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:43:11 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:43:11 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:44:02 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:44:02 | [INFO]    | Connecting to Discord...
+2020-08-21 20:44:02 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:44:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:44:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:44:03 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:44:03 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:44:18 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:44:18 | [INFO]    | Connecting to Discord...
+2020-08-21 20:44:19 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:44:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:44:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:44:19 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:44:19 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:44:54 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:44:54 | [INFO]    | Connecting to Discord...
+2020-08-21 20:44:55 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:44:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:44:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:44:55 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:44:55 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:45:17 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:45:17 | [INFO]    | Connecting to Discord...
+2020-08-21 20:45:17 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:45:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:45:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:45:18 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:45:18 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:45:48 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:45:48 | [INFO]    | Connecting to Discord...
+2020-08-21 20:45:48 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:45:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:45:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:45:48 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:45:48 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:46:37 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:46:37 | [INFO]    | Connecting to Discord...
+2020-08-21 20:46:37 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:46:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:46:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:46:37 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:46:38 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:48:39 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:48:39 | [INFO]    | Connecting to Discord...
+2020-08-21 20:48:39 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:48:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:48:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:48:39 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:48:39 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:48:58 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:48:58 | [INFO]    | Connecting to Discord...
+2020-08-21 20:48:58 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:48:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:48:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:48:58 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:48:58 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:49:14 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:49:14 | [INFO]    | Connecting to Discord...
+2020-08-21 20:49:15 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:49:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:49:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:49:15 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:49:15 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:52:29 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:52:29 | [INFO]    | Connecting to Discord...
+2020-08-21 20:52:30 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:52:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:52:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:52:30 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:52:30 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:53:05 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:53:05 | [INFO]    | Connecting to Discord...
+2020-08-21 20:53:06 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:53:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:53:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:53:06 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:53:06 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:53:57 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:53:57 | [INFO]    | Connecting to Discord...
+2020-08-21 20:53:57 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:53:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:53:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:53:57 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:53:57 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:54:34 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:54:34 | [INFO]    | Connecting to Discord...
+2020-08-21 20:54:34 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:54:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:54:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:54:34 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:54:34 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:58:52 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:58:52 | [INFO]    | Connecting to Discord...
+2020-08-21 20:58:52 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:58:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:58:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:58:53 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:58:53 | [INFO]    | Shard 0 : Received READY
+2020-08-21 20:59:09 | [INFO]    | Discordia 2.8.3
+2020-08-21 20:59:09 | [INFO]    | Connecting to Discord...
+2020-08-21 20:59:10 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 20:59:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 20:59:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 20:59:10 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 20:59:10 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:00:28 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:00:28 | [INFO]    | Connecting to Discord...
+2020-08-21 21:00:28 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:00:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:00:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:00:29 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:00:29 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:00:46 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:00:46 | [INFO]    | Connecting to Discord...
+2020-08-21 21:00:46 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:00:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:00:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:00:46 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:00:46 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:03:03 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:03:03 | [INFO]    | Connecting to Discord...
+2020-08-21 21:03:03 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:03:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:03:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:03:04 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:03:21 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:03:21 | [INFO]    | Connecting to Discord...
+2020-08-21 21:03:21 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:03:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:03:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:03:21 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:03:22 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:10:00 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:10:00 | [INFO]    | Connecting to Discord...
+2020-08-21 21:10:01 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:10:40 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:10:40 | [INFO]    | Connecting to Discord...
+2020-08-21 21:10:40 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:10:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:10:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:10:41 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:10:41 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:11:30 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:11:30 | [INFO]    | Connecting to Discord...
+2020-08-21 21:11:30 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:11:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:11:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:11:30 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:11:31 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:11:47 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:11:47 | [INFO]    | Connecting to Discord...
+2020-08-21 21:11:47 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:11:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:11:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:11:47 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:11:48 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:12:24 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:12:24 | [INFO]    | Connecting to Discord...
+2020-08-21 21:12:24 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:12:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:12:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:12:24 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:12:25 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:35:46 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:35:46 | [INFO]    | Connecting to Discord...
+2020-08-21 21:35:47 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:35:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:35:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:35:47 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:35:47 | [INFO]    | Shard 0 : Received READY
+2020-08-21 21:36:40 | [INFO]    | Discordia 2.8.3
+2020-08-21 21:36:40 | [INFO]    | Connecting to Discord...
+2020-08-21 21:36:41 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-21 21:36:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-21 21:36:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-21 21:36:41 | [INFO]    | Shard 0 : Received HELLO
+2020-08-21 21:36:41 | [INFO]    | Shard 0 : Received READY
+2020-08-22 14:57:23 | [INFO]    | Discordia 2.8.3
+2020-08-22 14:57:23 | [INFO]    | Connecting to Discord...
+2020-08-22 14:57:23 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-22 14:57:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-22 14:57:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-22 14:57:23 | [INFO]    | Shard 0 : Received HELLO
+2020-08-22 14:57:23 | [INFO]    | Shard 0 : Received READY
+2020-08-22 14:57:28 | [ERROR]   | 403 - Forbidden : DELETE https://discordapp.com/api/v7/channels/746810941009559643/messages/746850551802626118
+2020-08-22 14:57:56 | [INFO]    | Discordia 2.8.3
+2020-08-22 14:57:56 | [INFO]    | Connecting to Discord...
+2020-08-22 14:57:56 | [INFO]    | Authenticated as Capo Bell Schedule#0180
+2020-08-22 14:57:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-08-22 14:57:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-08-22 14:57:56 | [INFO]    | Shard 0 : Received HELLO
+2020-08-22 14:57:56 | [INFO]    | Shard 0 : Received READY
