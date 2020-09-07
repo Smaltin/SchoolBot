@@ -1,5 +1,6 @@
 --this is gonna be really shit, I haven't programmed in what feels like an eternity even though it was only 4 days.
 local discordia = require('discordia')
+local sql = require("sqlite3")
 local client = discordia.Client()
 local prefix = "!"
 local clock = discordia.Clock()
